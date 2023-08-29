@@ -1,2 +1,2 @@
 # Unity-Practice-1
-This is the first time I'm learning Unity. Aside from learning, I'm studying Unity to be able to develop a game. Unity is a game engine using the C# programming language. This repository is my first Unity exercise in creating a game.
+This first Unity exercise was learned from one of the YouTube channels. Creating a simple game where the player has to avoid randomly looping falling objects from above. The longer the player survives, the higher the score will be.
